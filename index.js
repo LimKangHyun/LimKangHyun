@@ -5,18 +5,20 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi there 👋
+let text = `## ABOUT ME💡
 
 ## 이런 환경에 익숙해요✍🏼
 
 ## 언어
-
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlarkd0218" width=40% />
+</div>
 <p>
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 
-## 📕 Latest Blog Posts
+## 📄 최근 블로그 포스팅
 
 `;
 
