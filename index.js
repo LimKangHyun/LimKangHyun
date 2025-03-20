@@ -7,17 +7,27 @@ import Parser from "rss-parser";
  */
 let text = `## ABOUT ME💡
 
-## 이런 환경에 익숙해요✍🏼
-
-## 언어
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlarkd0218" width=40% />
-</div>
+    
+## 🛠️ Stack
 <p>
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-</p>
+</p> 
 
+## 🐈‍⬛ Github-stats
+<a href="https://github.com/LimKangHyun/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LimKangHyun" />
+</a>
+<a href="https://github.com/LimKangHyun/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimKangHyun&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+## 🧩 Solved.ac
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlarkd0218" width=40% />
+</div>
+
+---
 ## 📄 최근 블로그 포스팅
 
 `;
