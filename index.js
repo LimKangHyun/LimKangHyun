@@ -29,12 +29,12 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://devpad.tistory.com/rss'); // 본인의 블로그 주소
+    const feed = await parser.parseURL('https://lkh0218-dev.tistory.com/rss'); // 본인의 블로그 주소
     
     text += `<ul>`;
     
-    // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 10; i++) {
+    // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
+    for (let i = 0; i < 5; i++) {
         const {title, link} = feed.items[i];
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
