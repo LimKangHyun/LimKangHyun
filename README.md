@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/37' target='_blank'>프로그래머스 [ 소수 찾기 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/36' target='_blank'>프로그래머스 [ 최소직사각형 / Lv1 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/35' target='_blank'>Garbage Collection</a></li><li><a href='https://lkh0218-dev.tistory.com/34' target='_blank'>JVM의 구조</a></li><li><a href='https://lkh0218-dev.tistory.com/33' target='_blank'>JAVA의 실행 과정</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/38' target='_blank'>객체 지향 프로그래밍(OOP)의 특징 4가지</a></li><li><a href='https://lkh0218-dev.tistory.com/37' target='_blank'>프로그래머스 [ 소수 찾기 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/36' target='_blank'>프로그래머스 [ 최소직사각형 / Lv1 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/35' target='_blank'>Garbage Collection</a></li><li><a href='https://lkh0218-dev.tistory.com/34' target='_blank'>JVM의 구조</a></li></ul>
