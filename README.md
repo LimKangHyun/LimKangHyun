@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/45' target='_blank'>프로그래머스 [ 피로도 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/44' target='_blank'>프로그래머스 [ 카펫 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/43' target='_blank'>프로그래머스 [ 모의고사 / Lv1 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/42' target='_blank'>String, StringBuilder, StringBuffer 특징 및 성능비교</a></li><li><a href='https://lkh0218-dev.tistory.com/41' target='_blank'>String 객체와 String 리터럴</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/46' target='_blank'>final, finalize, finally의 차이와 활용</a></li><li><a href='https://lkh0218-dev.tistory.com/45' target='_blank'>프로그래머스 [ 피로도 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/44' target='_blank'>프로그래머스 [ 카펫 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/43' target='_blank'>프로그래머스 [ 모의고사 / Lv1 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/42' target='_blank'>String, StringBuilder, StringBuffer 특징 및 성능비교</a></li></ul>
