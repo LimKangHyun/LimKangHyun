@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/53' target='_blank'>프로그래머스 [ 게임 맵 최단거리 / Lv3 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/52' target='_blank'>프로그래머스 [ 타겟 넘버 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/51' target='_blank'>equals()와 hashcode()</a></li><li><a href='https://lkh0218-dev.tistory.com/50' target='_blank'>Java의 예외처리</a></li><li><a href='https://lkh0218-dev.tistory.com/49' target='_blank'>프로그래머스 [ 모음사전 / Lv2 ] - JAVA</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/54' target='_blank'>객체 지향 설계 5대 원칙 (SOLID)</a></li><li><a href='https://lkh0218-dev.tistory.com/53' target='_blank'>프로그래머스 [ 게임 맵 최단거리 / Lv3 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/52' target='_blank'>프로그래머스 [ 타겟 넘버 / Lv2 ] - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/51' target='_blank'>equals()와 hashcode()</a></li><li><a href='https://lkh0218-dev.tistory.com/50' target='_blank'>Java의 예외처리</a></li></ul>
