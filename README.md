@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/57' target='_blank'>백준 14500 테트로미노 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/56' target='_blank'>백준 10468 숫자뽑기게임 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/55' target='_blank'>Java의 원시 타입과 참조 타입</a></li><li><a href='https://lkh0218-dev.tistory.com/54' target='_blank'>객체 지향 설계 5대 원칙 (SOLID)</a></li><li><a href='https://lkh0218-dev.tistory.com/53' target='_blank'>프로그래머스 [ 게임 맵 최단거리 / Lv3 ] - JAVA</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/58' target='_blank'>데이터베이스</a></li><li><a href='https://lkh0218-dev.tistory.com/57' target='_blank'>백준 14500 테트로미노 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/56' target='_blank'>백준 10468 숫자뽑기게임 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/55' target='_blank'>Java의 원시 타입과 참조 타입</a></li><li><a href='https://lkh0218-dev.tistory.com/54' target='_blank'>객체 지향 설계 5대 원칙 (SOLID)</a></li></ul>
