@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/63' target='_blank'>백준 15903 카드 합체 놀이 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/62' target='_blank'>데이터베이스 Key의 개념과 종류</a></li><li><a href='https://lkh0218-dev.tistory.com/61' target='_blank'>백준 12015 가장 긴 증가하는 부분 수열 2 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/59' target='_blank'>SQL의 실행과정</a></li><li><a href='https://lkh0218-dev.tistory.com/58' target='_blank'>데이터베이스</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/64' target='_blank'>백준 17142 연구소 3 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/63' target='_blank'>백준 15903 카드 합체 놀이 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/62' target='_blank'>데이터베이스 Key의 개념과 종류</a></li><li><a href='https://lkh0218-dev.tistory.com/61' target='_blank'>백준 12015 가장 긴 증가하는 부분 수열 2 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/59' target='_blank'>SQL의 실행과정</a></li></ul>
