@@ -5,8 +5,6 @@
 ## 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-<img src= "https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
@@ -15,6 +13,8 @@
 
 ### ✍️ Studying
 
+<img src= "https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
 
 ## 🐈‍⬛ Github-stats
@@ -32,4 +32,4 @@
 ---
 ## 📄 최근 블로그 포스팅
 
-<ul><li><a href='https://lkh0218-dev.tistory.com/70' target='_blank'>백준 1443 망가진 계산기 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/69' target='_blank'>백준 2636 치즈 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/68' target='_blank'>백준 1019 책 페이지 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/67' target='_blank'>백준 1941 소문난 칠공주 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/66' target='_blank'>백준 2573 빙산 - JAVA</a></li></ul>
+<ul><li><a href='https://lkh0218-dev.tistory.com/77' target='_blank'>데브코스 2차 팀 프로젝트 - Devchat 회고</a></li><li><a href='https://lkh0218-dev.tistory.com/76' target='_blank'>백준 17484 진우의 달 여행(Small) - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/75' target='_blank'>백준 1956 운동 - JAVA</a></li><li><a href='https://lkh0218-dev.tistory.com/74' target='_blank'>[Clean Code] - 독후감 (1장, 2장, 3장)</a></li><li><a href='https://lkh0218-dev.tistory.com/73' target='_blank'>백준 17135 캐슬 디펜스 - JAVA</a></li></ul>
